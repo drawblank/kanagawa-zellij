@@ -2,7 +2,8 @@ themes {
   kanagawa {
     bg "#DCD7BA"
     fg "#1F1F28"
-    black "#090618"
+    white "#090618"
+    black "#dcd6ba"
     red "#e82424"
     green "#98bb6c"
     yellow "#e6c384"
@@ -10,6 +11,5 @@ themes {
     magenta "#938aa9"
     cyan "#7aa89f"
     orange "#FFA066"
-    white "#dcd7ba"
   }
 }
